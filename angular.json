@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "projects": {
+    "customized": "libs/customized",
+    "showcase": "apps/showcase",
+    "showcase-e2e": "apps/showcase-e2e"
+  }
+}
